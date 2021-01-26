@@ -1,0 +1,19 @@
+label	sort_order	color_rgb	alias
+Pathogenic	1	rgb(204, 0, 0)	
+Pathogenic/Likely pathogenic	2	rgb(255, 51, 51)	Pathogenic / Likely pathogenic
+Likely pathogenic	3	rgb(255, 102, 102)	
+Drug response	4	rgb(153, 0, 204)	
+Risk factor	5	rgb(9, 141, 42)	
+Affects	6	rgb(125, 211, 121)	
+Association	7	rgb(204, 153, 255)	
+Protective	8	rgb(153, 102, 0)	
+Conflicting - some pathogenic	10	rgb(254,224,144)	
+Conflicting interpretations of pathogenicity	11	rgb(255,255,120)	Conflicting, CONFLICT
+Conflicting - none pathogenic	12	rgb(255,255,120)	
+Likely benign	15	rgb(171,217,233)	
+Benign/Likely benign	16	rgb(116,173,209)	Benign / Likely benign
+Benign	17	rgb(69,117,180)	
+Uncertain significance	20	rgb(156, 156, 156)	
+Other	21	rgb(184, 184, 184)	
+Not provided	22	rgb(198, 198, 198)	
+UNREPORTED	25	rgb(212, 212, 212)	Unreported, not reported

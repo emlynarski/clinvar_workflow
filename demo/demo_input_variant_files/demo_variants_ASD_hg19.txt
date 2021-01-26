@@ -1,0 +1,1066 @@
+CHR	POS	REF	ALT	VAR_FUNCTION	VAR_CATEGORY	STUDY_TYPE	VAR_VALIDATION
+1	2234752	G	A	exonic	nonsynonymous SNV	genome	
+1	24664177	C	T	exonic	synonymous SNV	exome	
+1	24664177	C	T	exonic	synonymous SNV	exome	variant source reported as validated
+1	24664177	C	T	exonic	synonymous SNV	exome	smMIP
+1	24664177	C	T	exonic	synonymous SNV	exome	variant source reported as validated
+1	24664177	C	T	exonic	synonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+1	61553905	C	T	exonic	stopgain	exome	PCR and pooled high-throughput sequencing procedure with Illumina MiSeq (150 bp PE)
+1	61553905	C	T	exonic	stopgain	exome	
+1	61553905	C	T	exonic	stopgain	exome	variant source reported as validated
+1	61553905	C	T	exonic	stopgain	exome	variant source reported as validated
+1	61553905	C	T	exonic	stopgain	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+1	61553905	C	T	exonic	stopgain	targeted	
+1	62971474	G	A	exonic	nonsynonymous SNV	exome	
+1	62971474	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+1	62971474	G	A	exonic	nonsynonymous SNV	exome	smMIP
+1	62971474	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+1	62971474	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+1	94512565	C	T	exonic	nonsynonymous SNV	exome	
+1	100327811	A	T	splicing	splicing	exome	Sanger
+1	100340950	C	T	exonic	stopgain	exome	
+1	151377304	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151377304	C	T	exonic	nonsynonymous SNV	targeted	
+1	151377379	T	G	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151377422	A	C	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151377469	C	G	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151377631	A	G	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151377705	T	C	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151377709	T	C	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151377709	T	C	exonic	nonsynonymous SNV	targeted	
+1	151377739	T	A	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151377852	T	C	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151377852	T	C	exonic	nonsynonymous SNV	targeted	
+1	151377904	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151377952	G	A	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151378123	A	C	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151378123	A	C	exonic	nonsynonymous SNV	targeted	
+1	151378138	T	C	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151378168	G	C	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151378168	G	C	exonic	nonsynonymous SNV	targeted	
+1	151378395	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151378489	G	A	exonic	stopgain	exome	
+1	151378489	G	A	exonic	stopgain	exome	variant source reported as validated
+1	151378489	G	A	exonic	stopgain	exome	variant source reported as validated
+1	151378489	G	A	exonic	stopgain	targeted	
+1	151378489	G	A	exonic	stopgain	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+1	151378719	G	A	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151378806	G	A	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151378903	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151378920	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151378920	C	T	exonic	nonsynonymous SNV	targeted	
+1	151379096	T	C	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151379390	G	A	exonic	nonsynonymous SNV	targeted	
+1	151379390	G	A	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151379390	G	A	exonic	nonsynonymous SNV	targeted	
+1	151379747	C	T	exonic	nonsynonymous SNV	targeted	
+1	151379747	C	T	exonic	nonsynonymous SNV	targeted	
+1	151379747	C	T	exonic	nonsynonymous SNV	targeted	PCR
+1	151379747	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151381253	T	C	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151381283	T	G	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151381291	T	G	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151381291	T	G	exonic	nonsynonymous SNV	targeted	
+1	151396002	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151396503	G	C	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151396503	G	C	exonic	nonsynonymous SNV	targeted	
+1	151396521	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151396521	C	T	exonic	nonsynonymous SNV	targeted	
+1	151396522	G	A	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151396522	G	A	exonic	nonsynonymous SNV	targeted	
+1	151396573	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151396573	C	T	exonic	nonsynonymous SNV	targeted	
+1	151396630	G	C	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151400305	T	C	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151400407	G	C	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151400407	G	C	exonic	nonsynonymous SNV	targeted	
+1	151400435	G	C	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151400475	A	G	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151400517	G	A	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151400517	G	A	exonic	nonsynonymous SNV	targeted	
+1	151400628	T	C	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151400664	G	C	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151400701	G	A	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151400701	G	A	exonic	nonsynonymous SNV	targeted	
+1	151400709	T	C	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151400833	T	A	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151402148	T	C	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151403282	G	C	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151403298	C	A	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151413415	G	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151413476	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151413476	C	T	exonic	nonsynonymous SNV	targeted	
+1	151413557	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	151804213	G	A	exonic	stopgain	exome	
+1	155340680	C	A	exonic	stopgain	exome	
+1	155340680	C	A	exonic	stopgain	exome	variant source reported as validated
+1	155340680	C	A	exonic	stopgain	exome	smMIP
+1	155340680	C	A	exonic	stopgain	exome	variant source reported as validated
+1	156105105	T	C	splicing	splicing	genome	
+1	197073381	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+1	197073381	C	T	exonic	nonsynonymous SNV	genome	
+1	209823359	A	C	exonic	nonsynonymous SNV	exome	PCR and pooled high-throughput sequencing procedure with Illumina MiSeq (150 bp PE)
+1	209823359	A	C	exonic	nonsynonymous SNV	exome	
+1	209823359	A	C	exonic	nonsynonymous SNV	exome	variant source reported as validated
+1	209823359	A	C	exonic	nonsynonymous SNV	exome	smMIP
+1	209823359	A	C	exonic	nonsynonymous SNV	exome	variant source reported as validated
+1	209823359	A	C	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+1	237025584	C	T	exonic	nonsynonymous SNV	exome	
+1	245021539	T	C	exonic	nonsynonymous SNV	targeted	
+2	1891259	C	T	splicing	splicing	targeted	
+2	20162057	G	A	exonic	nonsynonymous SNV	genome	
+2	21229930	G	A	exonic	synonymous SNV	exome	PCR and pooled high-throughput sequencing procedure with Illumina MiSeq (150 bp PE)
+2	21229930	G	A	exonic	synonymous SNV	exome	
+2	21229930	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+2	21229930	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+2	25457176	G	A	exonic	nonsynonymous SNV	exome	
+2	25457176	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	25457176	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	25466800	G	A	exonic	nonsynonymous SNV	genome	
+2	25466800	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	25466800	G	A	exonic	nonsynonymous SNV	genome	
+2	47643526	G	A	exonic	stopgain	genome	
+2	48026852	G	A	exonic	nonsynonymous SNV	exome	
+2	48026852	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	48026852	G	A	exonic	nonsynonymous SNV	exome	smMIP
+2	48026852	G	A	exonic	nonsynonymous SNV	exome	Sanger sequencing
+2	48026852	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	50724817	G	A	exonic	nonsynonymous SNV	genome	
+2	50765424	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+2	71766338	G	A	exonic	synonymous SNV	genome	
+2	71797809	C	T	exonic	stopgain	exome	variant source reported as validated
+2	71797809	C	T	exonic	stopgain	exome	
+2	71797809	C	T	exonic	stopgain	exome	variant source reported as validated
+2	71839871	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	121744056	G	A	exonic	nonsynonymous SNV	targeted	
+2	152468776	T	C	exonic	nonsynonymous SNV	exome	
+2	152492740	C	T	splicing	splicing	targeted	Sanger sequencing
+2	152512435	T	C	exonic	nonsynonymous SNV	exome	PCR and pooled high-throughput sequencing procedure with Illumina MiSeq (150 bp PE)
+2	152512435	T	C	exonic	nonsynonymous SNV	exome	
+2	152512435	T	C	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	152512435	T	C	exonic	nonsynonymous SNV	exome	smMIP
+2	152512435	T	C	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	152512435	T	C	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+2	152518680	A	G	exonic	nonsynonymous SNV	exome	Sanger
+2	152543981	G	A	exonic	synonymous SNV	exome	smMIP
+2	157186342	C	A	exonic	synonymous SNV	exome	Sanger Validation
+2	162274307	G	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	162274307	G	T	exonic	nonsynonymous SNV	exome	
+2	162274307	G	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	162274307	G	T	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+2	162274307	G	T	exonic	nonsynonymous SNV	targeted	
+2	162276743	A	G	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	162276743	A	G	exonic	nonsynonymous SNV	targeted	
+2	166152415	C	T	exonic	nonsynonymous SNV	genome	
+2	166152415	C	T	exonic	nonsynonymous SNV	targeted	
+2	166153563	C	T	exonic	stopgain	targeted	
+2	166153564	G	A	exonic	nonsynonymous SNV	genome	Sanger
+2	166153564	G	A	exonic	nonsynonymous SNV	targeted	
+2	166170611	A	C	exonic	nonsynonymous SNV	targeted	
+2	166179741	C	T	exonic	stopgain	exome	
+2	166179741	C	T	exonic	stopgain	targeted	
+2	166179835	C	T	exonic	nonsynonymous SNV	targeted	
+2	166201068	C	T	exonic	stopgain	targeted	
+2	166201068	C	T	exonic	stopgain	targeted	PCR
+2	166201311	C	T	exonic	nonsynonymous SNV	exome	
+2	166201311	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	166201311	C	T	exonic	nonsynonymous SNV	targeted	
+2	166201311	C	T	exonic	nonsynonymous SNV	exome	smMIP
+2	166201311	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	166201311	C	T	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+2	166201312	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	166201312	G	A	exonic	nonsynonymous SNV	targeted	
+2	166201312	G	A	exonic	nonsynonymous SNV	exome	
+2	166201312	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	166201379	C	A	exonic	stopgain	exome	
+2	166201379	C	A	exonic	stopgain	exome	variant source reported as validated
+2	166201379	C	A	exonic	stopgain	targeted	
+2	166201379	C	A	exonic	stopgain	exome	smMIP
+2	166201379	C	A	exonic	stopgain	exome	variant source reported as validated
+2	166201379	C	A	exonic	stopgain	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+2	166210825	G	A	exonic	nonsynonymous SNV	targeted	
+2	166223735	C	T	exonic	nonsynonymous SNV	targeted	
+2	166234155	C	T	exonic	stopgain	targeted	
+2	166245192	C	T	exonic	stopgain	targeted	Sanger
+2	166245192	C	T	exonic	stopgain	targeted	PCR
+2	166245634	C	T	exonic	nonsynonymous SNV	targeted	
+2	166245867	C	T	exonic	nonsynonymous SNV	targeted	
+2	166246068	C	T	exonic	nonsynonymous SNV	targeted	
+2	166850674	C	T	exonic	nonsynonymous SNV	targeted	
+2	166856252	G	A	exonic	nonsynonymous SNV	targeted	
+2	166900346	T	C	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	166901612	G	A	exonic	nonsynonymous SNV	targeted	
+2	166908478	C	T	exonic	nonsynonymous SNV	targeted	
+2	166911147	C	T	splicing	splicing	targeted	
+2	179407526	C	T	exonic	nonsynonymous SNV	exome	PCR and pooled high-throughput sequencing procedure with Illumina MiSeq (150 bp PE)
+2	179407526	C	T	exonic	nonsynonymous SNV	exome	
+2	179407526	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	179407526	C	T	exonic	nonsynonymous SNV	exome	smMIP
+2	179407526	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	179428473	C	T	exonic	synonymous SNV	exome	
+2	179436520	C	T	exonic	nonsynonymous SNV	exome	
+2	179436520	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	179436520	C	T	exonic	nonsynonymous SNV	exome	Sanger sequencing
+2	179436520	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	179436520	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	179437013	G	A	exonic	stopgain	exome	variant source reported as validated
+2	179437710	C	T	exonic	synonymous SNV	exome	
+2	179437710	C	T	exonic	synonymous SNV	exome	variant source reported as validated
+2	179437710	C	T	exonic	synonymous SNV	exome	variant source reported as validated
+2	179452804	C	T	exonic	synonymous SNV	exome	
+2	179452804	C	T	exonic	synonymous SNV	exome	variant source reported as validated
+2	179452804	C	T	exonic	synonymous SNV	exome	smMIP
+2	179452804	C	T	exonic	synonymous SNV	exome	variant source reported as validated
+2	179452804	C	T	exonic	synonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+2	179582496	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	179582496	C	T	exonic	nonsynonymous SNV	exome	
+2	179582496	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	179582496	C	T	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+2	179588185	G	A	exonic	synonymous SNV	exome	
+2	179588185	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+2	179588185	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+2	179592329	G	A	exonic	nonsynonymous SNV	exome	PCR and pooled high-throughput sequencing procedure with Illumina MiSeq (150 bp PE)
+2	179604758	C	T	exonic	nonsynonymous SNV	exome	
+2	179604758	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	179604758	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	179634424	C	G	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	179634424	C	G	exonic	nonsynonymous SNV	exome	
+2	179634424	C	G	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	179638072	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	179641336	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	179641336	C	T	exonic	nonsynonymous SNV	exome	
+2	179641336	C	T	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+2	179666976	G	A	exonic	nonsynonymous SNV	exome	
+2	179666976	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	179666976	G	A	exonic	nonsynonymous SNV	exome	smMIP
+2	179666976	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	179666976	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+2	202571654	G	A	exonic	nonsynonymous SNV	exome	
+2	202571654	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	202571654	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	202571654	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+2	209217389	G	A	exonic	synonymous SNV	exome	
+2	209217389	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+2	210802262	C	T	exonic	stopgain	targeted	
+2	225376215	G	A	exonic	stopgain	targeted	Sanger
+2	225422467	T	C	exonic	nonsynonymous SNV	genome	
+2	227915847	C	T	exonic	nonsynonymous SNV	exome	
+2	227919330	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	230650558	C	T	exonic	nonsynonymous SNV	exome	
+2	230650558	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	230650558	C	T	exonic	nonsynonymous SNV	exome	smMIP
+2	230650558	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	230650558	C	T	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+2	230650558	C	T	exonic	nonsynonymous SNV	targeted	
+2	233392150	G	A	exonic	nonsynonymous SNV	genome	
+2	233655527	A	G	exonic	nonsynonymous SNV	targeted	
+2	233656136	A	G	exonic	nonsynonymous SNV	targeted	
+2	234676504	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	234676519	C	T	exonic	stopgain	exome	
+2	234676519	C	T	exonic	stopgain	exome	variant source reported as validated
+2	234676519	C	T	exonic	stopgain	exome	smMIP
+2	234676519	C	T	exonic	stopgain	exome	variant source reported as validated
+2	234676519	C	T	exonic	stopgain	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+2	238253016	G	A	exonic	nonsynonymous SNV	exome	
+2	238262034	C	T	exonic	nonsynonymous SNV	genome	
+2	238271991	G	A	exonic	nonsynonymous SNV	exome	
+2	241680764	C	T	exonic	nonsynonymous SNV	exome	
+2	241680764	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+2	241680764	C	T	exonic	nonsynonymous SNV	exome	smMIP
+2	241680764	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+3	9483388	C	T	exonic	stopgain	exome	variant source reported as validated
+3	9483388	C	T	exonic	stopgain	exome	
+3	9483388	C	T	exonic	stopgain	exome	variant source reported as validated
+3	9483388	C	T	exonic	stopgain	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+3	9490270	C	T	exonic	stopgain	exome	
+3	9490270	C	T	exonic	stopgain	targeted	
+3	11067472	C	T	exonic	nonsynonymous SNV	exome	
+3	11067472	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+3	11067472	C	T	exonic	nonsynonymous SNV	exome	smMIP
+3	11067472	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+3	11067472	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+3	11067472	C	T	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+3	11067472	C	T	exonic	nonsynonymous SNV	targeted	
+3	11067528	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+3	11076337	G	A	exonic	nonsynonymous SNV	exome	
+3	11076337	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+3	11076337	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+3	11076337	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+3	11076337	G	A	exonic	nonsynonymous SNV	targeted	
+3	30733030	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+3	37081716	G	A	exonic	nonsynonymous SNV	exome	
+3	37081716	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+3	37081770	A	C	exonic	nonsynonymous SNV	exome	variant source reported as validated
+3	37081770	A	C	exonic	nonsynonymous SNV	exome	
+3	37081770	A	C	exonic	nonsynonymous SNV	exome	variant source reported as validated
+3	37081770	A	C	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+3	46003735	C	T	exonic	nonsynonymous SNV	exome	
+3	46008983	G	A	exonic	nonsynonymous SNV	exome	
+3	47205396	G	A	exonic	stopgain	targeted	
+3	49569736	C	T	exonic	nonsynonymous SNV	exome	not attempted
+3	49569736	C	T	exonic	nonsynonymous SNV	exome	
+3	49569736	C	T	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+3	49570350	C	T	exonic	synonymous SNV	exome	variant source reported as validated
+3	53757544	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+3	53757544	G	A	exonic	nonsynonymous SNV	exome	
+3	53757544	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+3	53757544	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+3	53796100	G	A	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+3	71021817	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+3	71021817	C	T	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+3	71021818	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+3	71026115	G	A	exonic	stopgain	exome	
+3	71026115	G	A	exonic	stopgain	exome	variant source reported as validated
+3	71026115	G	A	exonic	stopgain	exome	smMIP
+3	71026115	G	A	exonic	stopgain	exome	variant source reported as validated
+3	71026115	G	A	exonic	stopgain	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+3	71026977	A	G	splicing	splicing	exome	
+3	123019100	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+3	142281298	C	T	exonic	nonsynonymous SNV	exome	
+3	142285059	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+3	178947865	G	A	exonic	nonsynonymous SNV	exome	
+3	178952088	A	G	exonic	nonsynonymous SNV	exome	
+3	186461524	C	T	exonic	stopgain	exome	
+4	9922187	G	A	exonic	nonsynonymous SNV	exome	
+4	79353580	G	A	exonic	nonsynonymous SNV	exome	
+4	79353580	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+4	79353580	G	A	exonic	nonsynonymous SNV	exome	smMIP
+4	79353580	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+4	106156163	G	A	exonic	nonsynonymous SNV	exome	
+4	114161689	G	A	exonic	nonsynonymous SNV	targeted	
+4	114177018	C	T	exonic	nonsynonymous SNV	targeted	
+4	114177072	C	T	exonic	nonsynonymous SNV	targeted	
+4	114195633	C	T	exonic	nonsynonymous SNV	targeted	
+4	114251431	G	A	exonic	nonsynonymous SNV	targeted	
+4	114251469	C	T	exonic	stopgain	exome	
+4	114251469	C	T	exonic	stopgain	exome	variant source reported as validated
+4	114251469	C	T	exonic	stopgain	exome	smMIP
+4	114251469	C	T	exonic	stopgain	exome	variant source reported as validated
+4	114251469	C	T	exonic	stopgain	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+4	114251568	G	A	exonic	nonsynonymous SNV	targeted	
+4	114267127	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+4	114275103	G	C	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+4	114279674	C	A	exonic	nonsynonymous SNV	exome	
+4	114294285	G	A	exonic	nonsynonymous SNV	targeted	
+4	114294318	G	A	exonic	nonsynonymous SNV	targeted	
+4	114294463	G	A	exonic	nonsynonymous SNV	exome	
+4	126373570	C	T	exonic	nonsynonymous SNV	exome	
+4	151186882	G	A	exonic	nonsynonymous SNV	exome	
+4	184629585	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+5	251135	G	A	exonic	nonsynonymous SNV	exome	PCR and pooled high-throughput sequencing procedure with Illumina MiSeq (150 bp PE)
+5	251135	G	A	exonic	nonsynonymous SNV	exome	
+5	251135	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+5	251135	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+5	251135	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+5	1414895	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+5	1414895	G	A	exonic	nonsynonymous SNV	exome	
+5	1414895	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+5	1414895	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+5	1414895	G	A	exonic	nonsynonymous SNV	exome	
+5	13883123	C	T	exonic	nonsynonymous SNV	exome	
+5	13883123	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+5	13883123	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+5	37059219	T	C	exonic	nonsynonymous SNV	genome	Sanger
+5	56155672	A	G	exonic	nonsynonymous SNV	exome	
+5	88027590	G	A	exonic	stopgain	targeted	Sanger sequencing
+5	90449167	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+5	90449167	G	A	exonic	nonsynonymous SNV	genome	Sanger & Sequenom
+5	127625580	G	A	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+5	127702120	T	G	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+5	127728960	T	C	exonic	nonsynonymous SNV	genome	
+5	127863565	G	A	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+5	131544863	C	T	exonic	nonsynonymous SNV	targeted	
+5	147821679	A	G	exonic	nonsynonymous SNV	exome	
+5	147821679	A	G	exonic	nonsynonymous SNV	exome	variant source reported as validated
+5	147821679	A	G	exonic	nonsynonymous SNV	exome	smMIP
+5	147821679	A	G	exonic	nonsynonymous SNV	exome	variant source reported as validated
+5	148422396	G	A	exonic	synonymous SNV	exome	PCR and pooled high-throughput sequencing procedure with Illumina MiSeq (150 bp PE)
+5	148422396	G	A	exonic	synonymous SNV	exome	
+5	148422396	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+5	148422396	G	A	exonic	synonymous SNV	exome	smMIP
+5	148422396	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+5	148422396	G	A	exonic	synonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+5	149631371	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+5	149631595	T	A	exonic	nonsynonymous SNV	exome	
+5	149631595	T	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+5	149631595	T	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+5	149631595	T	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+5	153144076	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+5	153144076	G	A	exonic	nonsynonymous SNV	exome	
+5	153144076	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+5	153144076	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+5	156679654	G	A	exonic	nonsynonymous SNV	genome	
+5	156679654	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+5	156679654	G	A	exonic	nonsynonymous SNV	genome	
+5	160758021	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+5	161522557	G	A	exonic	nonsynonymous SNV	exome	
+5	161576159	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+5	161576159	G	A	exonic	nonsynonymous SNV	exome	
+5	161576159	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+5	161576159	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+5	178413163	G	C	exonic	nonsynonymous SNV	exome	
+6	24528285	C	T	exonic	stopgain	targeted	Sanger
+6	24533890	G	A	exonic	nonsynonymous SNV	targeted	Sanger
+6	33391326	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+6	33391326	G	A	exonic	nonsynonymous SNV	exome	
+6	33391326	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+6	33391326	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+6	33408690	C	T	exonic	stopgain	targeted	Sanger
+6	33411228	C	T	exonic	stopgain	exome	variant source reported as validated
+6	33411228	C	T	exonic	stopgain	exome	
+6	33411228	C	T	exonic	stopgain	exome	variant source reported as validated
+6	33411228	C	T	exonic	stopgain	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+6	42974252	C	T	exonic	nonsynonymous SNV	targeted	
+6	42975003	G	A	exonic	nonsynonymous SNV	exome	Sanger
+6	42975003	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+6	43006016	G	T	exonic	nonsynonymous SNV	exome	
+6	43006061	G	A	exonic	stopgain	targeted	
+6	43017322	G	A	exonic	stopgain	targeted	
+6	43018105	C	A	exonic	nonsynonymous SNV	targeted	Sanger
+6	43018958	G	A	exonic	synonymous SNV	exome	
+6	43019495	C	T	exonic	nonsynonymous SNV	targeted	
+6	51875127	G	A	exonic	nonsynonymous SNV	exome	
+6	51875127	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+6	51875127	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+6	51893107	T	C	exonic	nonsynonymous SNV	exome	
+6	72596754	C	T	exonic	nonsynonymous SNV	targeted	
+6	75875492	C	T	exonic	nonsynonymous SNV	exome	
+6	75875492	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+6	75875492	C	T	exonic	nonsynonymous SNV	exome	Sanger sequencing
+6	75875492	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+6	79650649	G	A	exonic	stopgain	targeted	Sanger
+6	79727285	G	A	exonic	nonsynonymous SNV	targeted	
+6	129513850	T	A	exonic	nonsynonymous SNV	exome	
+6	135732649	T	C	exonic	nonsynonymous SNV	exome	
+6	152464786	G	A	exonic	nonsynonymous SNV	exome	
+6	152476160	C	T	exonic	nonsynonymous SNV	exome	
+6	152690641	G	T	exonic	nonsynonymous SNV	exome	
+6	152728223	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+6	152728223	C	T	exonic	nonsynonymous SNV	exome	
+6	152728223	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+6	152779933	G	A	exonic	nonsynonymous SNV	exome	
+6	157517445	C	T	exonic	stopgain	exome	variant source reported as validated
+6	157522599	G	A	exonic	nonsynonymous SNV	targeted	
+6	157525120	A	G	exonic	nonsynonymous SNV	exome	
+6	157525120	A	G	exonic	nonsynonymous SNV	exome	variant source reported as validated
+7	21747364	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+7	21747364	G	A	exonic	synonymous SNV	exome	
+7	21747364	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+7	91630490	A	G	exonic	nonsynonymous SNV	exome	
+7	92734951	G	A	exonic	stopgain	targeted	Sanger sequencing
+7	99711522	A	G	exonic	nonsynonymous SNV	exome	
+7	99711522	A	G	exonic	nonsynonymous SNV	exome	variant source reported as validated
+7	99711522	A	G	exonic	nonsynonymous SNV	exome	variant source reported as validated
+7	103180649	C	T	exonic	nonsynonymous SNV	targeted	Sanger
+7	103234202	C	T	exonic	nonsynonymous SNV	exome	
+7	103290810	G	A	exonic	nonsynonymous SNV	targeted	
+7	114329933	A	T	exonic	nonsynonymous SNV	targeted	
+7	116398602	G	A	exonic	nonsynonymous SNV	exome	
+7	116398602	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+7	116398602	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+7	140481409	A	C	exonic	nonsynonymous SNV	exome	variant source reported as validated
+7	140481409	A	C	exonic	nonsynonymous SNV	exome	
+7	140481409	A	C	exonic	nonsynonymous SNV	exome	variant source reported as validated
+7	140481409	A	C	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+7	146471465	A	G	exonic	nonsynonymous SNV	targeted	
+7	146536932	A	G	exonic	nonsynonymous SNV	targeted	
+7	146536934	C	T	exonic	nonsynonymous SNV	targeted	
+7	146536994	T	G	exonic	nonsynonymous SNV	targeted	
+7	146741012	A	G	exonic	nonsynonymous SNV	targeted	
+7	146805322	A	G	exonic	nonsynonymous SNV	targeted	
+7	146805341	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+7	146825896	G	A	exonic	nonsynonymous SNV	targeted	
+7	146829419	G	A	exonic	nonsynonymous SNV	targeted	
+7	146829473	A	G	exonic	nonsynonymous SNV	targeted	
+7	146829500	C	T	exonic	nonsynonymous SNV	targeted	
+7	147092805	G	A	exonic	nonsynonymous SNV	targeted	
+7	147183035	C	G	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+7	147600681	T	C	exonic	nonsynonymous SNV	targeted	
+7	147600705	A	G	exonic	nonsynonymous SNV	targeted	
+7	147600749	G	A	exonic	nonsynonymous SNV	targeted	
+7	147674986	A	G	exonic	nonsynonymous SNV	targeted	
+7	147675066	C	T	exonic	nonsynonymous SNV	targeted	
+7	147844634	T	C	exonic	nonsynonymous SNV	targeted	
+7	147844745	G	A	exonic	nonsynonymous SNV	targeted	
+7	147914500	C	T	exonic	nonsynonymous SNV	targeted	
+7	147926795	T	C	exonic	nonsynonymous SNV	targeted	
+7	148106525	T	C	exonic	nonsynonymous SNV	targeted	
+7	148112545	C	T	exonic	nonsynonymous SNV	targeted	
+7	148112631	G	A	exonic	nonsynonymous SNV	targeted	
+7	151891590	C	T	exonic	nonsynonymous SNV	targeted	
+8	6302217	C	T	exonic	nonsynonymous SNV	exome	not attempted
+8	6302217	C	T	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+8	11607635	G	A	exonic	nonsynonymous SNV	exome	
+8	11607635	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+8	11607635	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+8	11614568	C	T	exonic	synonymous SNV	exome	variant source reported as validated
+8	61735090	G	A	exonic	nonsynonymous SNV	exome	
+8	61735090	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+8	61735090	G	A	exonic	nonsynonymous SNV	exome	smMIP
+8	61735090	G	A	exonic	nonsynonymous SNV	exome	Sanger sequencing
+8	61735090	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+8	61742924	G	A	exonic	nonsynonymous SNV	genome	
+8	61742924	G	A	exonic	nonsynonymous SNV	targeted	Sanger
+8	61748841	C	T	exonic	nonsynonymous SNV	targeted	
+8	87645092	C	T	exonic	nonsynonymous SNV	exome	
+8	100205240	T	G	exonic	nonsynonymous SNV	exome	
+8	100733201	C	T	exonic	stopgain	targeted	Sanger sequencing
+8	100832259	A	G	exonic	nonsynonymous SNV	exome	
+8	133142164	G	A	exonic	nonsynonymous SNV	exome	
+8	133192492	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+8	133192493	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+8	144993782	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+8	144995364	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+8	144995364	G	A	exonic	synonymous SNV	exome	
+8	144995364	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+8	144995364	G	A	exonic	synonymous SNV	exome	
+8	144998708	G	A	exonic	nonsynonymous SNV	exome	Sanger
+8	144998708	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+9	312134	G	A	exonic	nonsynonymous SNV	exome	
+9	377154	G	C	exonic	nonsynonymous SNV	targeted	
+9	404946	C	T	exonic	nonsynonymous SNV	targeted	
+9	6534708	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+9	6534708	G	A	exonic	synonymous SNV	exome	
+9	6534708	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+9	6534708	G	A	exonic	synonymous SNV	exome	
+9	6604637	G	A	exonic	stopgain	exome	variant source reported as validated
+9	6604637	G	A	exonic	stopgain	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+9	32542278	T	C	exonic	nonsynonymous SNV	exome	
+9	77367203	T	C	exonic	nonsynonymous SNV	exome	
+9	130444788	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+9	130444788	C	T	exonic	nonsynonymous SNV	exome	
+9	130444788	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+9	130444788	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+9	130444788	C	T	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+9	130444788	C	T	exonic	nonsynonymous SNV	exome	
+9	130444788	C	T	exonic	nonsynonymous SNV	targeted	
+9	131395574	C	T	exonic	synonymous SNV	exome	variant source reported as validated
+9	131395574	C	T	exonic	synonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+9	133759686	A	G	exonic	nonsynonymous SNV	exome	variant source reported as validated
+9	133942350	G	A	exonic	nonsynonymous SNV	genome	
+9	133942350	G	A	exonic	nonsynonymous SNV	genome	
+9	134381575	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+9	134396829	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+9	135772014	C	T	exonic	nonsynonymous SNV	targeted	
+9	135772049	G	A	exonic	nonsynonymous SNV	targeted	
+9	135778098	T	C	exonic	nonsynonymous SNV	targeted	
+9	135779052	G	A	exonic	nonsynonymous SNV	targeted	
+9	135781205	T	C	exonic	nonsynonymous SNV	targeted	
+9	135781287	C	T	exonic	nonsynonymous SNV	targeted	
+9	135782214	G	A	exonic	nonsynonymous SNV	targeted	
+9	135786013	G	A	exonic	nonsynonymous SNV	targeted	
+9	135786451	G	T	exonic	nonsynonymous SNV	targeted	
+9	135786863	G	A	exonic	nonsynonymous SNV	targeted	
+9	135786868	G	A	exonic	nonsynonymous SNV	targeted	
+9	135797313	C	T	exonic	nonsynonymous SNV	exome	
+9	135800991	A	C	exonic	nonsynonymous SNV	targeted	
+9	136319589	G	A	exonic	nonsynonymous SNV	exome	
+9	139402449	G	A	exonic	synonymous SNV	exome	
+9	139402449	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+9	139402449	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+9	139405111	G	A	exonic	nonsynonymous SNV	exome	
+9	139411769	G	A	exonic	nonsynonymous SNV	genome	
+10	17127755	G	A	exonic	stopgain	exome	
+10	17127755	G	A	exonic	stopgain	exome	variant source reported as validated
+10	17127755	G	A	exonic	stopgain	exome	Sanger sequencing
+10	17127755	G	A	exonic	stopgain	exome	variant source reported as validated
+10	29788083	G	A	exonic	nonsynonymous SNV	targeted	
+10	61874029	C	G	exonic	nonsynonymous SNV	targeted	
+10	61926617	G	A	exonic	nonsynonymous SNV	targeted	
+10	61967911	G	A	exonic	synonymous SNV	exome	
+10	61967911	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+10	61967911	G	A	exonic	synonymous SNV	exome	smMIP
+10	61967911	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+10	61967911	G	A	exonic	synonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+10	73464800	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+10	73464800	G	A	exonic	nonsynonymous SNV	exome	
+10	73464800	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+10	73464800	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+10	73537449	G	A	exonic	nonsynonymous SNV	exome	
+10	89624245	G	T	exonic	stopgain	exome	variant source reported as validated
+10	89685300	C	A	exonic	stopgain	targeted	
+10	89690802	G	A	splicing	splicing	targeted	Sanger
+10	89692836	A	T	exonic	nonsynonymous SNV	targeted	
+10	89692908	C	T	exonic	nonsynonymous SNV	exome	
+10	89692908	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+10	89692908	C	T	exonic	nonsynonymous SNV	targeted	
+10	89692908	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+10	89692908	C	T	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+10	89692908	C	T	exonic	nonsynonymous SNV	targeted	
+10	89692961	C	T	exonic	stopgain	genome	
+10	89692965	A	G	exonic	nonsynonymous SNV	exome	variant source reported as validated
+10	89711874	G	A	splicing	splicing	exome	variant source reported as validated
+10	89711874	G	A	splicing	splicing	exome	
+10	89711874	G	A	splicing	splicing	exome	variant source reported as validated
+10	89711874	G	A	splicing	splicing	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+10	89711882	C	A	exonic	nonsynonymous SNV	exome	
+10	89711882	C	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+10	89711882	C	A	exonic	nonsynonymous SNV	exome	smMIP
+10	89711882	C	A	exonic	nonsynonymous SNV	targeted	
+10	89711882	C	A	exonic	nonsynonymous SNV	exome	Sanger sequencing
+10	89711882	C	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+10	89711882	C	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+10	89711882	C	A	exonic	nonsynonymous SNV	targeted	
+10	89717615	C	T	exonic	stopgain	targeted	
+10	89717698	T	G	exonic	nonsynonymous SNV	genome	
+10	89717712	C	T	exonic	nonsynonymous SNV	exome	Sanger sequencing
+10	89717712	C	T	exonic	nonsynonymous SNV	genome	
+10	112359556	C	T	exonic	nonsynonymous SNV	exome	
+10	112359556	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+10	112359556	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+10	112359556	C	T	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+11	687917	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+11	687917	C	T	exonic	nonsynonymous SNV	exome	
+11	687917	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+11	687917	C	T	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+11	2189844	G	A	exonic	stopgain	targeted	Sanger sequencing
+11	2189844	G	A	exonic	stopgain	genome	
+11	9879859	T	C	exonic	nonsynonymous SNV	genome	
+11	12278507	A	G	exonic	nonsynonymous SNV	exome	
+11	12278507	A	G	exonic	nonsynonymous SNV	exome	variant source reported as validated
+11	12278507	A	G	exonic	nonsynonymous SNV	exome	smMIP
+11	12278507	A	G	exonic	nonsynonymous SNV	exome	variant source reported as validated
+11	12278507	A	G	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+11	22276997	C	T	exonic	stopgain	exome	PCR and pooled high-throughput sequencing procedure with Illumina MiSeq (150 bp PE)
+11	22276997	C	T	exonic	stopgain	exome	
+11	22276997	C	T	exonic	stopgain	exome	variant source reported as validated
+11	22276997	C	T	exonic	stopgain	exome	variant source reported as validated
+11	22276997	C	T	exonic	stopgain	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+11	64453180	C	T	exonic	nonsynonymous SNV	exome	
+11	66254814	G	A	splicing	splicing	exome	variant source reported as validated
+11	66254814	G	A	splicing	splicing	exome	
+11	66254814	G	A	splicing	splicing	exome	variant source reported as validated
+11	66254814	G	A	splicing	splicing	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+11	67926275	G	A	exonic	nonsynonymous SNV	exome	
+11	67926275	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+11	67926275	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+11	67939039	C	G	exonic	nonsynonymous SNV	exome	
+11	67939039	C	G	exonic	nonsynonymous SNV	exome	variant source reported as validated
+11	67939039	C	G	exonic	nonsynonymous SNV	exome	smMIP
+11	67939039	C	G	exonic	nonsynonymous SNV	exome	variant source reported as validated
+11	67939039	C	G	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+11	68154098	C	T	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+11	68174018	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+11	68174018	G	A	exonic	nonsynonymous SNV	exome	
+11	68174018	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+11	68174018	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+11	71146479	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+11	71146646	G	A	exonic	synonymous SNV	genome	
+11	71146681	G	A	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+11	71155917	G	A	exonic	stopgain	targeted	Sanger sequencing
+11	103175330	A	G	exonic	nonsynonymous SNV	exome	
+11	119148914	C	A	exonic	nonsynonymous SNV	genome	
+11	120989131	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+11	124793235	C	T	splicing	splicing	targeted	Sanger sequencing
+11	124794777	G	A	exonic	nonsynonymous SNV	exome	
+11	124794777	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+11	124794777	G	A	exonic	nonsynonymous SNV	exome	smMIP
+11	124794777	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+11	124794777	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+11	126314949	C	T	exonic	nonsynonymous SNV	targeted	
+12	2595423	T	C	exonic	nonsynonymous SNV	targeted	
+12	2659186	G	A	exonic	nonsynonymous SNV	targeted	
+12	2694639	G	A	exonic	nonsynonymous SNV	targeted	
+12	2694651	C	T	exonic	nonsynonymous SNV	targeted	
+12	2719827	G	A	exonic	nonsynonymous SNV	targeted	
+12	2775890	G	A	exonic	nonsynonymous SNV	genome	
+12	2786373	G	A	exonic	nonsynonymous SNV	targeted	
+12	2788616	G	A	exonic	nonsynonymous SNV	targeted	
+12	2788667	G	A	exonic	nonsynonymous SNV	targeted	
+12	2788901	G	A	exonic	nonsynonymous SNV	targeted	
+12	2794993	C	T	exonic	nonsynonymous SNV	targeted	
+12	2797785	G	A	exonic	nonsynonymous SNV	targeted	
+12	2797868	G	A	exonic	nonsynonymous SNV	targeted	
+12	2797944	C	G	exonic	nonsynonymous SNV	targeted	
+12	6127784	C	T	exonic	synonymous SNV	exome	
+12	6127784	C	T	exonic	synonymous SNV	exome	variant source reported as validated
+12	6127784	C	T	exonic	synonymous SNV	exome	variant source reported as validated
+12	7053724	C	T	exonic	synonymous SNV	exome	
+12	7053724	C	T	exonic	synonymous SNV	exome	variant source reported as validated
+12	7053724	C	T	exonic	synonymous SNV	exome	smMIP
+12	7053724	C	T	exonic	synonymous SNV	exome	variant source reported as validated
+12	7053724	C	T	exonic	synonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+12	13716489	G	A	exonic	nonsynonymous SNV	targeted	
+12	13716667	C	T	exonic	nonsynonymous SNV	targeted	
+12	13717054	C	T	exonic	nonsynonymous SNV	targeted	
+12	13720107	T	C	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+12	13722953	T	C	splicing	splicing	exome	
+12	13722953	T	C	splicing	splicing	exome	variant source reported as validated
+12	13722953	T	C	splicing	splicing	targeted	
+12	13722953	T	C	splicing	splicing	exome	variant source reported as validated
+12	13722953	T	C	splicing	splicing	targeted	
+12	13724822	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+12	13724822	C	T	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+12	13764762	C	T	exonic	stopgain	exome	
+12	13764762	C	T	exonic	stopgain	exome	variant source reported as validated
+12	13764762	C	T	exonic	stopgain	targeted	
+12	13764762	C	T	exonic	stopgain	exome	variant source reported as validated
+12	13764762	C	T	exonic	stopgain	targeted	
+12	13764781	G	A	exonic	nonsynonymous SNV	targeted	
+12	13768147	G	A	exonic	stopgain	targeted	Sanger
+12	13768147	G	A	exonic	stopgain	targeted	PCR
+12	13768147	G	A	exonic	stopgain	exome	variant source reported as validated
+12	13768147	G	A	exonic	stopgain	targeted	
+12	13768560	C	T	exonic	nonsynonymous SNV	exome	
+12	13768560	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+12	13768560	C	T	exonic	nonsynonymous SNV	targeted	
+12	13768560	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+12	13768560	C	T	exonic	nonsynonymous SNV	targeted	
+12	40715839	C	T	exonic	stopgain	targeted	Sanger sequencing
+12	48368041	G	A	exonic	nonsynonymous SNV	genome	
+12	49433291	C	G	exonic	nonsynonymous SNV	exome	
+12	49440421	G	A	exonic	synonymous SNV	genome	
+12	49440421	G	A	exonic	synonymous SNV	genome	
+12	49579631	G	A	exonic	nonsynonymous SNV	exome	
+12	49579631	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+12	49579631	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+12	49579631	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+12	52093426	T	C	exonic	nonsynonymous SNV	exome	variant source reported as validated
+12	52100452	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+12	52200776	A	G	exonic	nonsynonymous SNV	exome	variant source reported as validated
+12	56090739	C	T	exonic	nonsynonymous SNV	genome	
+12	103234271	G	A	exonic	nonsynonymous SNV	exome	
+12	110222127	G	A	exonic	nonsynonymous SNV	exome	
+12	110222127	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+12	110222127	G	A	exonic	nonsynonymous SNV	exome	smMIP
+12	110222127	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+12	110222127	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+12	110778685	C	T	exonic	synonymous SNV	exome	variant source reported as validated
+12	110778685	C	T	exonic	synonymous SNV	exome	
+12	110778685	C	T	exonic	synonymous SNV	exome	variant source reported as validated
+12	110778685	C	T	exonic	synonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+12	112926270	C	T	exonic	nonsynonymous SNV	exome	
+12	112926888	G	A	exonic	nonsynonymous SNV	exome	
+12	112926888	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+12	112926888	G	A	exonic	nonsynonymous SNV	targeted	Sanger
+12	112926888	G	A	exonic	nonsynonymous SNV	genome	SANGER
+12	112926888	G	A	exonic	nonsynonymous SNV	exome	smMIP
+12	112926888	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+12	112926888	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+13	32915264	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+13	32915264	G	A	exonic	nonsynonymous SNV	exome	
+13	32915264	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+13	32915264	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+13	32915264	G	A	exonic	nonsynonymous SNV	exome	
+13	32929306	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+13	32929306	G	A	exonic	nonsynonymous SNV	exome	
+13	32929306	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+13	32929306	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+13	32929306	G	A	exonic	nonsynonymous SNV	exome	
+13	32931893	C	T	exonic	synonymous SNV	exome	not attempted
+13	32931893	C	T	exonic	synonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+13	32968952	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+13	32968952	G	A	exonic	nonsynonymous SNV	exome	
+13	32968952	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+13	32968952	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+13	32972626	A	T	exonic	stopgain	exome	
+13	101944423	A	G	exonic	nonsynonymous SNV	exome	Sanger
+14	21860964	C	T	exonic	nonsynonymous SNV	targeted	
+14	21861748	G	A	exonic	nonsynonymous SNV	targeted	
+14	21870169	G	A	exonic	stopgain	exome	
+14	21870169	G	A	exonic	stopgain	exome	variant source reported as validated
+14	21870169	G	A	exonic	stopgain	exome	smMIP
+14	21870169	G	A	exonic	stopgain	targeted	
+14	21870169	G	A	exonic	stopgain	exome	variant source reported as validated
+14	21870169	G	A	exonic	stopgain	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+14	21870169	G	A	exonic	stopgain	targeted	
+14	21871178	G	A	exonic	stopgain	exome	
+14	21871178	G	A	exonic	stopgain	exome	variant source reported as validated
+14	21871178	G	A	exonic	stopgain	targeted	
+14	21871178	G	A	exonic	stopgain	exome	Sanger sequencing
+14	21871178	G	A	exonic	stopgain	exome	variant source reported as validated
+14	21871178	G	A	exonic	stopgain	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+14	21871178	G	A	exonic	stopgain	targeted	
+14	21899618	G	C	exonic	stopgain	targeted	
+14	23243580	G	A	exonic	stopgain	exome	
+14	23243580	G	A	exonic	stopgain	exome	variant source reported as validated
+14	23243580	G	A	exonic	stopgain	exome	smMIP
+14	23243580	G	A	exonic	stopgain	exome	Sanger sequencing
+14	23243580	G	A	exonic	stopgain	exome	variant source reported as validated
+14	23862683	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+14	24724606	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+14	24724606	G	A	exonic	nonsynonymous SNV	exome	
+14	24724606	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+14	24724606	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+14	24724663	C	T	exonic	nonsynonymous SNV	exome	
+14	64532269	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+14	64532269	G	A	exonic	synonymous SNV	exome	
+14	64532269	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+14	64532269	G	A	exonic	synonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+14	64532269	G	A	exonic	synonymous SNV	exome	
+14	64676751	C	T	exonic	nonsynonymous SNV	exome	
+14	102514235	A	C	exonic	nonsynonymous SNV	exome	variant source reported as validated
+15	25616729	C	T	exonic	nonsynonymous SNV	targeted	
+15	26806102	G	A	exonic	nonsynonymous SNV	targeted	
+15	48717681	G	A	exonic	synonymous SNV	exome	smMIP
+15	48720623	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+15	48720623	C	T	exonic	nonsynonymous SNV	exome	
+15	48720623	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+15	48720623	C	T	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+15	48764771	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+15	48766755	C	T	exonic	nonsynonymous SNV	exome	PCR and pooled high-throughput sequencing procedure with Illumina MiSeq (150 bp PE)
+15	48766755	C	T	exonic	nonsynonymous SNV	exome	
+15	48766755	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+15	48766755	C	T	exonic	nonsynonymous SNV	exome	smMIP
+15	48766755	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+15	48766755	C	T	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+15	48779518	C	T	exonic	nonsynonymous SNV	genome	
+15	48780431	G	A	exonic	synonymous SNV	exome	
+15	48780431	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+15	48780431	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+15	48780431	G	A	exonic	synonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+15	48784699	G	A	exonic	nonsynonymous SNV	exome	
+15	63937724	C	T	exonic	nonsynonymous SNV	exome	
+15	63937724	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+15	66727483	G	A	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+15	93482850	G	C	exonic	nonsynonymous SNV	targeted	
+15	93486100	C	T	exonic	nonsynonymous SNV	targeted	
+15	93518170	A	G	exonic	nonsynonymous SNV	exome	variant source reported as validated
+15	93518170	A	G	exonic	nonsynonymous SNV	exome	
+15	93518170	A	G	exonic	nonsynonymous SNV	exome	variant source reported as validated
+15	93518170	A	G	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+15	93518170	A	G	exonic	nonsynonymous SNV	exome	
+15	93518170	A	G	exonic	nonsynonymous SNV	targeted	
+15	93521585	G	A	exonic	nonsynonymous SNV	targeted	Sanger
+15	93521585	G	A	exonic	nonsynonymous SNV	targeted	PCR
+15	93524620	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+15	93524620	G	A	exonic	nonsynonymous SNV	exome	
+15	93524620	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+15	93524620	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+15	93563244	C	T	exonic	stopgain	exome	
+15	93563244	C	T	exonic	stopgain	exome	variant source reported as validated
+15	93563244	C	T	exonic	stopgain	exome	variant source reported as validated
+15	93563244	C	T	exonic	stopgain	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+15	93563244	C	T	exonic	stopgain	targeted	
+15	93563256	C	T	exonic	stopgain	targeted	Sanger
+15	93563256	C	T	exonic	stopgain	targeted	PCR
+15	93563256	C	T	exonic	stopgain	exome	variant source reported as validated
+15	93563256	C	T	exonic	stopgain	targeted	
+15	93567783	C	G	exonic	nonsynonymous SNV	targeted	
+15	99454580	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+15	99500576	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+16	2096239	G	A	exonic	stopgain	exome	
+16	2098633	G	A	exonic	nonsynonymous SNV	targeted	
+16	2100410	A	G	exonic	nonsynonymous SNV	targeted	
+16	2100429	A	G	exonic	nonsynonymous SNV	targeted	
+16	2100431	C	T	exonic	nonsynonymous SNV	targeted	
+16	2100431	C	T	exonic	nonsynonymous SNV	targeted	
+16	2100452	A	G	exonic	nonsynonymous SNV	targeted	
+16	2103392	A	T	exonic	nonsynonymous SNV	targeted	
+16	2104360	G	A	exonic	nonsynonymous SNV	targeted	
+16	2106226	C	T	exonic	nonsynonymous SNV	targeted	
+16	2106706	C	T	exonic	nonsynonymous SNV	targeted	
+16	2107113	G	A	exonic	nonsynonymous SNV	targeted	
+16	2110765	C	T	exonic	nonsynonymous SNV	targeted	
+16	2110776	C	G	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+16	2112989	G	A	exonic	nonsynonymous SNV	targeted	
+16	2114426	A	C	exonic	nonsynonymous SNV	targeted	
+16	2115529	C	T	exonic	nonsynonymous SNV	targeted	
+16	2115530	G	A	exonic	nonsynonymous SNV	targeted	
+16	2120556	A	G	exonic	nonsynonymous SNV	targeted	
+16	2121610	G	A	exonic	nonsynonymous SNV	targeted	
+16	2121870	G	A	exonic	nonsynonymous SNV	targeted	
+16	2124210	G	A	exonic	nonsynonymous SNV	targeted	
+16	2125875	C	T	exonic	nonsynonymous SNV	targeted	
+16	2125890	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+16	2126141	C	G	exonic	nonsynonymous SNV	targeted	
+16	2127711	G	C	exonic	nonsynonymous SNV	targeted	
+16	2129166	G	A	exonic	nonsynonymous SNV	targeted	
+16	2129566	C	T	exonic	nonsynonymous SNV	targeted	
+16	2130190	C	T	exonic	nonsynonymous SNV	targeted	
+16	2134269	C	T	exonic	nonsynonymous SNV	targeted	
+16	2134317	C	T	exonic	nonsynonymous SNV	targeted	
+16	2134329	G	A	exonic	nonsynonymous SNV	targeted	
+16	2134496	G	A	exonic	nonsynonymous SNV	targeted	
+16	2134574	C	T	exonic	nonsynonymous SNV	targeted	
+16	2134692	A	G	exonic	nonsynonymous SNV	targeted	
+16	2135023	A	G	exonic	nonsynonymous SNV	targeted	
+16	2135250	C	T	exonic	nonsynonymous SNV	exome	
+16	2136269	C	T	exonic	nonsynonymous SNV	exome	
+16	2136269	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+16	2136269	C	T	exonic	nonsynonymous SNV	exome	smMIP
+16	2136269	C	T	exonic	nonsynonymous SNV	exome	Sanger sequencing
+16	2136269	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+16	2136269	C	T	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+16	2138074	C	A	exonic	nonsynonymous SNV	targeted	
+16	2138123	A	G	exonic	nonsynonymous SNV	targeted	
+16	2138267	G	A	exonic	nonsynonymous SNV	targeted	
+16	2138324	C	T	exonic	nonsynonymous SNV	targeted	
+16	2138544	C	G	exonic	nonsynonymous SNV	targeted	
+16	2162839	T	C	exonic	synonymous SNV	exome	
+16	2162839	T	C	exonic	synonymous SNV	exome	variant source reported as validated
+16	2226351	G	A	exonic	nonsynonymous SNV	exome	not attempted
+16	2226351	G	A	exonic	nonsynonymous SNV	exome	
+16	2226351	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+16	2226351	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+16	2367764	T	A	exonic	nonsynonymous SNV	exome	
+16	9857047	G	T	exonic	nonsynonymous SNV	targeted	
+16	9934602	C	T	exonic	nonsynonymous SNV	targeted	
+16	15812190	G	A	exonic	synonymous SNV	exome	
+16	15812190	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+16	15812190	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+16	15844149	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+16	15844149	G	A	exonic	nonsynonymous SNV	exome	
+16	15844149	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+16	15872688	G	A	exonic	nonsynonymous SNV	exome	
+16	71171175	T	A	exonic	stopgain	exome	
+16	78149000	C	T	exonic	nonsynonymous SNV	exome	
+16	84211403	C	G	exonic	nonsynonymous SNV	exome	
+16	89357429	T	C	exonic	nonsynonymous SNV	targeted	
+16	89715864	G	A	exonic	stopgain	targeted	Sanger sequencing
+17	29559852	C	G	exonic	stopgain	exome	
+17	29559852	C	G	exonic	stopgain	exome	variant source reported as validated
+17	29559852	C	G	exonic	stopgain	exome	variant source reported as validated
+17	29559852	C	G	exonic	stopgain	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+17	29684327	G	A	exonic	nonsynonymous SNV	exome	
+17	40767021	C	T	exonic	nonsynonymous SNV	exome	
+17	41197776	C	T	exonic	stopgain	exome	
+17	41197776	C	T	exonic	stopgain	exome	variant source reported as validated
+17	41197776	C	T	exonic	stopgain	exome	smMIP
+17	41197776	C	T	exonic	stopgain	exome	variant source reported as validated
+17	41197776	C	T	exonic	stopgain	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+17	56285320	G	A	exonic	nonsynonymous SNV	exome	
+17	56285320	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+17	56285320	G	A	exonic	nonsynonymous SNV	genome	SANGER
+17	56285320	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+17	56285320	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+17	58740376	G	A	exonic	stopgain	exome	
+17	58740376	G	A	exonic	stopgain	exome	variant source reported as validated
+17	58740376	G	A	exonic	stopgain	exome	variant source reported as validated
+17	58740376	G	A	exonic	stopgain	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+17	58740376	G	A	exonic	stopgain	targeted	
+17	65343511	G	A	exonic	stopgain	exome	
+17	65343511	G	A	exonic	stopgain	exome	variant source reported as validated
+17	65343511	G	A	exonic	stopgain	exome	smMIP
+17	65343511	G	A	exonic	stopgain	exome	variant source reported as validated
+17	65343511	G	A	exonic	stopgain	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+17	80043273	C	T	exonic	synonymous SNV	genome	
+18	3135575	T	C	exonic	nonsynonymous SNV	exome	
+18	3135644	C	T	exonic	nonsynonymous SNV	exome	
+18	3215083	T	C	exonic	nonsynonymous SNV	exome	
+18	31322918	C	T	exonic	stopgain	exome	variant source reported as validated
+18	31322918	C	T	exonic	stopgain	exome	
+18	31322918	C	T	exonic	stopgain	exome	variant source reported as validated
+18	31322918	C	T	exonic	stopgain	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+18	31326012	T	G	exonic	nonsynonymous SNV	exome	
+18	42531877	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+18	42531877	G	A	exonic	nonsynonymous SNV	exome	
+18	42531877	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+18	42531877	G	A	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+18	42533266	C	T	exonic	nonsynonymous SNV	targeted	
+18	48604664	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+18	48604676	A	G	exonic	nonsynonymous SNV	exome	
+18	48604676	A	G	exonic	nonsynonymous SNV	exome	variant source reported as validated
+18	48604676	A	G	exonic	nonsynonymous SNV	exome	variant source reported as validated
+18	48604676	A	G	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+18	52896218	C	T	exonic	nonsynonymous SNV	genome	
+18	52896219	G	A	exonic	nonsynonymous SNV	targeted	
+18	52896231	G	A	exonic	stopgain	exome	variant source reported as validated
+18	52921925	G	A	exonic	stopgain	targeted	Sanger sequencing
+18	52928697	C	T	exonic	synonymous SNV	exome	
+18	52928697	C	T	exonic	synonymous SNV	exome	variant source reported as validated
+18	52928697	C	T	exonic	synonymous SNV	exome	Sanger sequencing
+18	52928697	C	T	exonic	synonymous SNV	exome	variant source reported as validated
+19	1207176	C	T	exonic	synonymous SNV	genome	
+19	1220604	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+19	1223103	C	T	exonic	nonsynonymous SNV	exome	PCR and pooled high-throughput sequencing procedure with Illumina MiSeq (150 bp PE)
+19	1223103	C	T	exonic	nonsynonymous SNV	exome	
+19	1223103	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+19	6709711	T	G	exonic	nonsynonymous SNV	exome	not attempted
+19	6709711	T	G	exonic	nonsynonymous SNV	exome	
+19	6709711	T	G	exonic	nonsynonymous SNV	exome	variant source reported as validated
+19	6709711	T	G	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+19	11096052	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+19	11096052	C	T	exonic	nonsynonymous SNV	exome	
+19	11096052	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+19	11096052	C	T	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+19	11152025	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+19	11213417	G	A	exonic	nonsynonymous SNV	exome	
+19	11230897	A	C	exonic	nonsynonymous SNV	exome	variant source reported as validated
+19	36221666	C	T	exonic	stopgain	exome	variant source reported as validated
+19	38949938	G	A	exonic	nonsynonymous SNV	exome	
+19	42474692	G	A	exonic	nonsynonymous SNV	exome	Sanger
+19	42855822	C	T	exonic	nonsynonymous SNV	exome	
+19	47349375	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+19	50774730	C	T	exonic	nonsynonymous SNV	exome	
+20	472926	T	C	exonic	nonsynonymous SNV	exome	
+20	472926	T	C	exonic	nonsynonymous SNV	exome	variant source reported as validated
+20	472926	T	C	exonic	nonsynonymous SNV	exome	smMIP
+20	472926	T	C	exonic	nonsynonymous SNV	exome	variant source reported as validated
+20	472926	T	C	exonic	nonsynonymous SNV	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+20	49509094	G	C	exonic	stopgain	targeted	
+20	49510040	G	T	exonic	stopgain	targeted	
+20	49510578	G	A	exonic	stopgain	exome	
+20	62055529	C	T	splicing	splicing	genome	
+20	62124508	C	G	exonic	nonsynonymous SNV	exome	
+20	62126415	C	T	exonic	nonsynonymous SNV	exome	
+20	62126415	C	T	exonic	nonsynonymous SNV	genome	
+20	62127325	C	T	exonic	nonsynonymous SNV	targeted	
+21	38850482	G	A	splicing	splicing	targeted	
+21	38862503	C	T	exonic	stopgain	targeted	PCR
+21	38865349	C	T	exonic	nonsynonymous SNV	targeted	
+21	38865466	G	A	splicing	splicing	exome	
+21	38865466	G	A	splicing	splicing	exome	variant source reported as validated
+21	38865466	G	A	splicing	splicing	exome	smMIP
+21	38865466	G	A	splicing	splicing	targeted	
+21	38865466	G	A	splicing	splicing	exome	Sanger sequencing
+21	38865466	G	A	splicing	splicing	exome	variant source reported as validated
+21	38865466	G	A	splicing	splicing	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+21	38865466	G	A	splicing	splicing	targeted	
+21	38868526	C	G	exonic	nonsynonymous SNV	targeted	
+21	38877655	C	T	exonic	stopgain	exome	variant source reported as validated
+21	38877655	C	T	exonic	stopgain	exome	
+21	38877655	C	T	exonic	stopgain	exome	variant source reported as validated
+21	38877655	C	T	exonic	stopgain	exome	Pyrosequencing (Pyroseq), subcloning with Sanger colony sequencing (CloneSeq), targeted PCR followed by MiSeq resequencing
+21	38878450	C	T	exonic	nonsynonymous SNV	targeted	
+21	47754471	G	A	exonic	nonsynonymous SNV	exome	
+21	47754471	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+22	19965563	C	T	exonic	nonsynonymous SNV	exome	
+22	21345975	C	T	exonic	nonsynonymous SNV	exome	Sanger
+22	21345975	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+22	21348255	C	T	exonic	nonsynonymous SNV	targeted	
+22	24717510	C	T	exonic	nonsynonymous SNV	exome	
+22	36681373	G	A	exonic	synonymous SNV	exome	variant source reported as validated
+22	36685240	C	T	exonic	nonsynonymous SNV	targeted	Sanger
+22	36685297	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+22	36688078	C	T	exonic	nonsynonymous SNV	targeted	
+22	36697021	C	T	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+22	36714302	G	A	exonic	nonsynonymous SNV	targeted	Sanger sequencing
+22	38129388	G	A	exonic	nonsynonymous SNV	exome	
+22	41513727	G	A	exonic	nonsynonymous SNV	exome	
+22	51117094	C	G	exonic	nonsynonymous SNV	exome	variant source reported as validated
+22	51153476	G	A	splicing	splicing	genome	
+22	51160154	G	A	exonic	nonsynonymous SNV	targeted	
+22	51160259	T	G	exonic	nonsynonymous SNV	targeted	
+22	51169504	C	A	exonic	nonsynonymous SNV	targeted	
+X	18616706	A	G	exonic	nonsynonymous SNV	targeted	
+X	18668586	C	T	exonic	stopgain	targeted	
+X	18668586	C	T	exonic	stopgain	targeted	PCR
+X	18668586	C	T	exonic	stopgain	targeted	Sanger sequencing
+X	31697642	C	G	exonic	nonsynonymous SNV	exome	
+X	32364157	C	A	exonic	nonsynonymous SNV	genome	
+X	32383221	C	T	exonic	synonymous SNV	exome	smMIP
+X	32429867	G	A	splicing	splicing	targeted	
+X	53270998	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+X	53272549	G	A	exonic	stopgain	exome	
+X	53279480	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+X	70375069	C	T	exonic	nonsynonymous SNV	exome	
+X	70375069	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+X	70375069	C	T	exonic	nonsynonymous SNV	exome	variant source reported as validated
+X	152959900	C	T	exonic	synonymous SNV	exome	
+X	152959900	C	T	exonic	synonymous SNV	exome	variant source reported as validated
+X	153295832	C	A	exonic	stopgain	exome	
+X	153295832	C	A	exonic	stopgain	targeted	Sanger
+X	153296117	G	A	exonic	nonsynonymous SNV	exome	
+X	153296153	G	A	exonic	nonsynonymous SNV	targeted	
+X	153296249	G	A	exonic	nonsynonymous SNV	exome	
+X	153296399	G	A	exonic	stopgain	targeted	
+X	153296399	G	A	exonic	stopgain	targeted	PCR
+X	153296471	G	A	exonic	stopgain	targeted	Sanger sequencing
+X	153296516	G	A	exonic	stopgain	targeted	
+X	153296516	G	A	exonic	stopgain	targeted	PCR
+X	153296605	G	C	exonic	nonsynonymous SNV	exome	variant source reported as validated
+X	153296629	G	A	exonic	nonsynonymous SNV	exome	variant source reported as validated
+X	153296671	G	A	exonic	nonsynonymous SNV	targeted	
+X	153296683	G	C	exonic	nonsynonymous SNV	exome	
+X	153296777	G	A	exonic	stopgain	targeted	
